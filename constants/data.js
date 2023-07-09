@@ -1,6 +1,6 @@
 // Define an array to store the schedule data
 
-export const vehicleData = [
+exports.vehicleData = [
   {
     id: 1,
     schedules: [
