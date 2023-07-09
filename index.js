@@ -1,6 +1,6 @@
-import express from "express";
-import cors from "cors";
-import { vehicleData } from "./constants/data";
+const express = require("express");
+const cors = require("cors");
+const { vehicleData } = require("./constants/data");
 
 const app = express();
 const port = 3440;
