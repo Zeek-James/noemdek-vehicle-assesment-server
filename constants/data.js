@@ -5,6 +5,7 @@ exports.vehicleData = [
     id: 1,
     schedules: [
       {
+        schedule_id: 1,
         startDate: "2023-07-09",
         endDate: "2023-07-09",
         startTime: "09:00 AM",
@@ -18,6 +19,7 @@ exports.vehicleData = [
         createdBy: "Adekunle Ajasin",
       },
       {
+        schedule_id: 2,
         startDate: "2023-07-10",
         endDate: "2023-07-10",
         startTime: "02:00 PM",
@@ -31,6 +33,7 @@ exports.vehicleData = [
         createdBy: "Adekunle Ajasin",
       },
       {
+        schedule_id: 3,
         startDate: "2023-07-12",
         endDate: "2023-07-15",
         startTime: "11:00 AM",
@@ -44,6 +47,7 @@ exports.vehicleData = [
         createdBy: "Adekunle Ajasin",
       },
       {
+        schedule_id: 4,
         startDate: "2023-08-20",
         endDate: "2023-08-20",
         startTime: "11:00 AM",
@@ -57,6 +61,7 @@ exports.vehicleData = [
         createdBy: "Adekunle Ajasin",
       },
       {
+        schedule_id: 5,
         startDate: "2023-08-22",
         endDate: "2023-08-22",
         startTime: "11:00 AM",
@@ -78,6 +83,7 @@ exports.vehicleData = [
     id: 2,
     schedules: [
       {
+        schedule_id: 1,
         startDate: "2023-07-10",
         endDate: "2023-07-12",
         startTime: "09:00 AM",
@@ -91,6 +97,7 @@ exports.vehicleData = [
         createdBy: "Adekunle Ajasin",
       },
       {
+        schedule_id: 2,
         startDate: "2023-07-14",
         endDate: "2023-07-15",
         startTime: "01:00 PM",
@@ -112,6 +119,7 @@ exports.vehicleData = [
     id: 3,
     schedules: [
       {
+        schedule_id: 1,
         startDate: "2023-07-09",
         endDate: "2023-07-13",
         startTime: "10:00 AM",
